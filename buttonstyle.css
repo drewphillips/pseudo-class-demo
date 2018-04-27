@@ -1,0 +1,22 @@
+
+a {
+  font-size: 88px;
+  font-family: 'Times New Roman', Times, serif
+}
+
+a:hover {
+  background-color: #777777;
+  color: #blue;
+
+}
+
+
+a:focus {
+  background-color: orange;
+  font-size: 24px;
+  color: aqua
+}
+
+a:active {
+  color: brown; 
+}
